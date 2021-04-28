@@ -10,7 +10,7 @@ The project uses Simple AES for encryption and decryption, RSA algorithm for dig
 3) For a secure RSA Implementation, p and q should be selected greater than 100.<br>
 4) server.py should be run before client.py.<br>
 
-#### Project Workflow
+# Project Workflow
 <ul>
   <li>
     Client inputs: Message, Secret Key, Public and Private key parameters for Client
@@ -63,4 +63,5 @@ The project uses Simple AES for encryption and decryption, RSA algorithm for dig
 </ul>
 
 #OUTPUT
+
 ![output](https://github.com/harsh3029/images/blob/beae7ed138acec70ca91500c11b3aee96187398e/Screenshot%20(57).png)
