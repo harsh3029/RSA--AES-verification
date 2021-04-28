@@ -5,11 +5,15 @@ The project uses Simple AES for encryption and decryption, RSA algorithm for dig
 
 ## Block diagram for Simple AES used here.
 <br>
+
 ![output](https://github.com/harsh3029/images/blob/11f10993c629cfeaf1737a7498b0ee30757cd919/Screenshot%20(59).png)
+
 <br>
 
 ## Block diagram for the project.
+
 <br>
+
 ![output](https://github.com/harsh3029/images/blob/11f10993c629cfeaf1737a7498b0ee30757cd919/Screenshot%20(58).png)
 
 
