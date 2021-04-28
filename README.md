@@ -1,6 +1,34 @@
 # RSA-AES-verification
 The project uses Simple AES for encryption and decryption, RSA algorithm for digital signature verification.
 
+# HOW TO RUN THE CODE
+<ul>
+  <li>
+Step 1 : run server.py file using "python server.py"
+</li>
+<li>
+Step 2 : run client.py file using "python client.py"
+</li>
+<li>
+aes_en.py contains the code to encrypt the plaintext using simple AES algorithm as given.
+</li>
+ <li>
+aes_de.py contains the code to decrypt the ciphertext using simple AES algorithm as given.
+</li>
+  <li>
+client.py contains socket code for client side.
+</li>
+  <li>
+server.py contains socket code for server side.
+</li>
+  <li>
+rsa.py contains the functions for RSA algorithm and converting the text to digest.
+</li>
+  <li>
+All the functions used are having names as per their uses.
+  </li>
+</ul>
+
 # THEORY
 
 ## Block diagram for Simple AES used here.
