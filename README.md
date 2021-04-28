@@ -3,8 +3,13 @@ The project uses Simple AES for encryption and decryption, RSA algorithm for dig
 
 # THEORY
 
-![output](https://github.com/harsh3029/images/blob/11f10993c629cfeaf1737a7498b0ee30757cd919/Screenshot%20(58).png)
+Block diagram for Simple AES used here.
 ![output](https://github.com/harsh3029/images/blob/11f10993c629cfeaf1737a7498b0ee30757cd919/Screenshot%20(59).png)
+<br>
+
+Block diagram for the project.
+![output](https://github.com/harsh3029/images/blob/11f10993c629cfeaf1737a7498b0ee30757cd919/Screenshot%20(58).png)
+
 
 # NOTE
 1) The Plaintext and cipher key should be Integer.<br>
